@@ -15,8 +15,8 @@
   ],
   "author": "David Cyril",
   "license": "MIT",
-  "dependencies": {
-   "@adiwajshing/baileys": "npm:wileys@^0.4.1",
+   "dependencies": {
+    "@adiwajshing/baileys": "npm:wileys@^0.4.1",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@hapi/boom": "^10.0.1",
@@ -25,6 +25,7 @@
     "awesome-phonenumber": "^6.4.0",
     "axios": "^1.6.7",
     "baileys_helper": "^1.0.6",
+    "baileys-x": "^1.2.1",
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
     "check-disk-space": "^3.3.1",
